@@ -171,37 +171,11 @@
 				echo	'<td><a href="'.$opgg.'" target="_blank" style="color:#9e9d9d; ">OP.GG</a></td>';
 				echo  '</tr>';
 			}
-			#player("TorpedoTim64", 'RatIRL');
-			player("C4duc40","Juanjo");
-			player("ekaixito","Bot");
-			player("HuidobroTeAmo","Pina");
-			player("byrudy21", "Rudy");
-			player("Nicki lIl Nicole", "Madina");
-			player("valleis", "Martinez");
-			player("UMBRA Itachi", "La Hilary");
-			player("silgolol", "PabloSilgo");
-			player("SurfeoEnELPusssy", "Madonna");
-			player("HagoAquaSplash", "ErPutoAmo");
-			player("Xmegma", "Androus");
-			player("Xoxito69 UwU", "Diegorl");
-			player("Doritos L0ver", "Rabo");
-			player("Ajiruma", "Blanco");
-			player("UCAM Truncapochs", "Inharsito");
-			player("InakiPrince", "Iñaki");
-			player("j0rg3EusK", "Jorgete");
-			player("Fake Taxing", "Lana Rohades");
-			player("Gortizzzz", "Gorka");
-			player("Kalciar", "Hairo");
-			player("NexusCas", "DanelCas");
-			player("ChicoCheese", "Migeldebaño");
-			player("Garibay116", "Gary");
-			player("Headhunter141100", "Botanica");
-			player("MeCuelgaElNabo", "ErKeTeFoka");
-			player("DiablaConV", "Chicos, poned diabla con v");
-			player("JesusChiquitito", 'La "smurf" de eka');
-			player("ChochaCuIoTeta","Tiene Grande La Teta");
-			player("LaCombiCompIeta","Una Rubia");
-			player("UMBRA Lord Costo","Recuerdos de Lord Costumer");
+	  		#Sintax for adding new players to the web. Use the function "player" with two parameters: the account name, and any text(player name), just keep adding lines with the function after the last one.
+			#player("Accountname", "Name");
+	  		#EXAMPLE: 
+	   		player("Werlyb", "Jorge");
+			
 			echo'</table>';
 			?>
 			<script>
