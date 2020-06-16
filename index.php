@@ -6,10 +6,10 @@
 	<meta content="Tomates, verdes, fritos, FannieFlagg, Kathy" name="keywords">
 	<script type="text/javascript" src="scripts/scripts.js"></script>
     <link rel="stylesheet" href="estilos/estilos.css" type="text/css" media="all">
-    <title>ZicutosSoloQChallengue</title>
+    <title>LeagueOfLegendsRanking</title>
   </head>
   <body>
-	<h1>ZicutosSoloQChallengue</h1>
+	<h1>LeagueOfLegendsRanking</h1>
 		<img id="logokantoikoa" src="imagenes/pp.jpg" style="border-radius:40px;">
 			<div id="header">
 				<ul class="nav">
