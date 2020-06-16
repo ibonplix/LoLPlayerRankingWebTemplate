@@ -15,8 +15,6 @@
 				<ul class="nav">
 					<li><a href="index.php" style="color:#E38968;">Ladder</a>
 					</li>
-					<li><a href="logros.php" style="color:#9e9d9d;">Logros</a>
-					</li>
 				</ul>
 			</div>
 			<?php
